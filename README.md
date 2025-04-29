@@ -1,6 +1,6 @@
-# 🔐 CryptoBench – Benchmark de Criptografia AES e RSA em Java
+# 🔐 Benchmark de Criptografia AES e RSA em Java
 
-O **CryptoBench** é um programa desenvolvido em **Java** que aplica algoritmos de criptografia simétrica (AES) e assimétrica (RSA), com o objetivo de analisar e comparar seus tempos de execução sob diferentes tamanhos de chave.
+O programa desenvolvido em **Java** que aplica algoritmos de criptografia simétrica (AES) e assimétrica (RSA), com o objetivo de analisar e comparar seus tempos de execução sob diferentes tamanhos de chave.
 
 ---
 
